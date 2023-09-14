@@ -5,8 +5,8 @@ dependencies:
   - python=3.11
   - numpy
   - matplotlib
-  - scipy.integrate
-  - numpy.linalg
+  - scipy
+  - numpy
   - pylab
   - scipy
   - ipywidgets
