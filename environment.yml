@@ -1,0 +1,12 @@
+name: modeleSIR (modifié)
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - numpy
+  - matplotlib
+  - scipy.integrate
+  - numpy.linalg
+  - pylab
+  - scipy
+  - ipywidgets
